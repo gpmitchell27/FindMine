@@ -11,12 +11,6 @@
 	margin: 0;
 }
 
-body#home a#home_nav,
-body#quotes a#quotes_nav,
-body#ourteam a#ourteam_nav,
-body#motox a#motox_nav,
-body#store a#store_nav,
-body#aboutus a#aboutus_nav {
 color: #0f83b3;
 }
 
