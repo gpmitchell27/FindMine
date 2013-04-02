@@ -347,13 +347,13 @@ ul#brands_nav {
 /* Main Navigation */
 
 nav {
-	background: -webkit-gradient(linear, left top, left bottom, from(#b4da00), to(#dbf36c));	
-	background: -moz-linear-gradient(bottom, #b4da00, #dbf36c 940px);
+	background: -webkit-gradient(linear, left top, left bottom, from(#00b4da), to(#dbf36c));	
+	background: -moz-linear-gradient(bottom, #00b4da, #dbf36c 940px);
 	width:100%; /*940px;*/
 	margin:0;
 	padding:0;
 	float:left;
-	background:#b4da00;
+	background:#00b4da;
 }
 
 
