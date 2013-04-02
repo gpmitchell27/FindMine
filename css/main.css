@@ -534,35 +534,6 @@ p.no_height {
 
 
 
-/* ====================================== AboutUs elements */
-
-#aboutus_info {
-	float:left;
-	width:73%;
-	margin-left:1.4992504%; /*10px*/
-}
-
-#aboutus_info img {
-	float:left;
-	padding-right:1.4992504%; /*10px/667*/
-	margin-left:2.9985007%; /*20px*/
-	padding-top:1.4992504%; /*10px/667*/
-}
-
-#aboutus_info p {
-	line-height:1.5;
-	margin-top:1.4992504%; /*10px/667*/
-}
-
-.printerpics  img{
-	padding-left:3.7481259%; /*25px*/
-	margin-left:3.1914894%; /*30px*/
-	float:left;
-}
-
-
-/* ====================================== AboutUs elements */
-
 
 
 /* ====================================== Sponsor page elements */
