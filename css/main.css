@@ -565,7 +565,72 @@ p.no_height {
 
 
 
+/* ====================================== Sponsor page elements */
 
+.intro {
+	width:100%;
+	background:#000;
+}
+
+.profiles {
+	padding:0.4em;
+}
+
+body#ourteam #main_content {
+	background: -webkit-gradient(linear, left top, left bottom, from(#f2f2f2), to(#b6b6b6));	
+	background: -moz-linear-gradient(bottom, #f2f2f2, #b6b6b6 940px);
+}
+
+body#ourteam .shadow {
+	margin:0;
+	padding:0;
+}
+
+
+.products {
+	width: 270px;
+	padding-top:.332323%;
+	margin-left:3.24534%;
+}
+
+.riders {
+	width: 250px;
+	padding-top:.332323%;
+	margin-left:3.24534%;
+}
+
+.sponsors {
+	width: 270px;
+	margin-left:3.24534%;
+}
+
+.riders img {
+	max-width:100%;
+}
+
+.riders li {
+	height:300px;
+}
+
+.intro ul {
+	list-style-type: none;
+}
+
+.riders p {
+	color:#999;
+	padding-bottom:12.21212%;
+}
+
+.sponsors p {
+	color:#999;
+	padding-bottom:12.21212%;
+}
+
+.profiles ul {
+	list-style-type:none;
+}
+
+/* ====================================== Sponsor page elements */
 
 
 
